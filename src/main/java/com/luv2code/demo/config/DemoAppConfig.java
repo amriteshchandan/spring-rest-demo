@@ -9,4 +9,5 @@ import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 @ComponentScan(basePackages = "com.luv2code.demo")
 public class DemoAppConfig {
 
+	
 }
