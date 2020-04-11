@@ -61,7 +61,7 @@
 					<version>9.4.27.v20200227</version>
 					<configuration>
 						<webApp>
-							<contextPath>/spring-security</contextPath>
+							<contextPath>/jetty</contextPath>
 						</webApp>
 					</configuration>
 				</plugin>
